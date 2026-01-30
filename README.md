@@ -1,3 +1,8 @@
+> ⚠️ **This repository has moved to [accessibility-suite](https://github.com/mcp-tool-shop/accessibility-suite)**
+> Source now lives at: `docs/prov-spec/`
+
+---
+
 # prov-spec
 
 **A formal, versioned specification and conformance suite for provenance method IDs, records, and validation.**
